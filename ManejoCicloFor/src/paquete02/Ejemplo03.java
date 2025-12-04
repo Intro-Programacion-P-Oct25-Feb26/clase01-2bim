@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package paquete03;
+package paquete02;
 
 import java.util.Locale;
 import java.util.Scanner;
